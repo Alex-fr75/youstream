@@ -1,2 +1,2 @@
 # youstream
-CMS de streaming 
+CMS de streaming Open-Source développé avec HTML/CSS, PHP/MYSQL, BOOTSTRAP et JAVASCRIPT/JQUERY
