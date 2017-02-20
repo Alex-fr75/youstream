@@ -14,10 +14,12 @@ Pseudo "**admin**" password "**admin**"
 
 ## Le CMS de streaming Youstream est constuit avec PHP/MYSQL JS/JQUERY BOOTSTRAP
 
-**V1v1.2**
+**V1.2**
+
 Le CMS comporte un page d'acceuil avec un slider des meilleures films ainsi qu'une grille avec les derniers films, et une page d'administration qui permet de modifier les réglages du site (theme, titre, description, code pub).
 
 **V1.0**
+
 Le CMS ne dispose pas d'administration et comporte un page d'acceuil avec un slider des meilleures films ainsi qu'une grille avec les derniers films
 
 ## Version a venir:
